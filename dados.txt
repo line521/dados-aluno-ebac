@@ -1,12 +1,17 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
+Primeiro Nome: Aline 
+
+-Profissão: Analista de Sistemas
+
+-Cidade: Belo Horizonte
+
+-O que faz nas horas vaga: Vejo filmes e leio.
+
+-Feedback sobre o curso Qualidade de Software: 
+Estou achando muito interessante, me ajudando a me especializar na área de QA, penso que logo vou conseguir um emprego nessa área.
+
 -Feedback sobre a plataforma de estudo da EBAC:
+Acho plataforma excelente e o que mais destaco é que ela é intuitiva, a maioria dos usuários irá conseguir acessar e encontrar o que procuram facilmente. 
 
 Obrigado!!!
-
-
